@@ -1,6 +1,6 @@
 # BMI Calculator (React)
 
-A modern BMI Calculator built using ReactJS with a clean UI.
+A modern BMI Calculator built using ReactJS with a clean and responsive UI.
 
 ## Features
 - Dark mode toggle
@@ -10,11 +10,11 @@ A modern BMI Calculator built using ReactJS with a clean UI.
 
 ## Tech Stack
 - ReactJS
-- CSS
 - JavaScript
+- CSS
 
 ## Live Demo
-https://YOUR-DEPLOYED-URL
+https://sakshi-bmi-calculator.netlify.app
 
 ## Run Locally
 npm install  
